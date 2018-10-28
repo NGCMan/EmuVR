@@ -23,7 +23,7 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 | Grab Item (Normal) | X | Use Hand + Grip | Use Hand + Trigger | X |
 | Throw Item | Z | Just Throw It* | Just Throw It* | Right Trigger |
 | Change Time (While highlighting clock) | Left/Right Arrow | (Pointing Hand)Trackpad Left/Right | (Pointing Hand)Analog Left/Right | (Left Analog/DPad) Left/Right |
-| Change Time (Anywhere) | Cntrl+Left/Right Arrow | Both Grips + (Left)Trackpad Left/Right | Both Triggers + Analog Left/Right | Hold Right Analog + (Left Analog/DPad) Left/Right |
+| Change Time (Anywhere) | Ctrl+Left/Right Arrow | Both Grips + (Left)Trackpad Left/Right | Both Triggers + Analog Left/Right | Hold Right Analog + (Left Analog/DPad) Left/Right |
 | Swap to System Time (While highlighting clock) | Spacebar | Grip + Trackpad Down | Trigger + A/X | A |
 | Swap Movement Mode(Teleport/Locomotion) | N/A | Both Grips + Trackpad Down | Both Triggers + A/X | Hold Left Analog + A |
 | Display RetroArch Menu** (While attached to a system) | Shift+Enter | Left Menu + Right Touchpad Down | (Left) X+Y | Start + Select |
